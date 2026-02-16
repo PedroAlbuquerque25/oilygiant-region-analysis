@@ -1,4 +1,13 @@
 # 🛢️ Oil Well Profit Optimization using Machine Learning
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-blueviolet)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Made With](https://img.shields.io/badge/Made%20with-Jupyter-orange)
+![Focus](https://img.shields.io/badge/Focus-Risk%20Modeling-critical)
 
 Identifying the most profitable region for oil well development using Linear Regression and risk analysis with Bootstrapping.
 
