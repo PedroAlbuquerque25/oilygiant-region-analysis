@@ -11,6 +11,8 @@
 
 Identifying the most profitable region for oil well development using Linear Regression and risk analysis with Bootstrapping.
 
+**Key Achievement:** identified a region with **$4.49M** expected profit while keeping risk at **1.7%**.
+
 ---
 
 ## 📌 Project Overview
