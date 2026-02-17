@@ -165,6 +165,7 @@ jupyter notebook
 
 ## 👤 Author
 Pedro Albuquerque
+Data Science | Data Analyst | Business Intelligence
 
-## 🤝 Contato
+## 🤝 Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phaa/)
